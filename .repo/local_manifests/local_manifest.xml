@@ -63,13 +63,13 @@
   <project path="external/chromium_org/third_party/openssl"      name="AndroidOpenSourceXperia/android_external_chromium_org_third_party_openssl"     remote="github"     revision="kitkat" />
   <project path="external/crda"                                  name="AndroidOpenSourceXperia/android_external_crda"                                 remote="github"     revision="cm-11.0" />
   <project path="external/openssl"                               name="AndroidOpenSourceXperia/android_external_openssl"                              remote="github"     revision="kitkat" />
-  <project path="frameworks/av"                                  name="AndroidOpenSourceXperia/android_frameworks_av"                                 remote="github"     revision="kitkat" />
-  <project path="frameworks/base"                                name="AndroidOpenSourceXperia/android_frameworks_base"                               remote="github"     revision="kitkat" />
-  <project path="frameworks/native"                              name="AndroidOpenSourceXperia/android_frameworks_native"                             remote="github"     revision="kitkat" />
-  <project path="frameworks/opt/telephony"                       name="AndroidOpenSourceXperia/android_frameworks_opt_telephony"                      remote="github"     revision="kitkat" />
+  <project path="frameworks/av"                                  name="AndroidOpenSourceXperia/android_frameworks_av-1"                                 remote="github"     revision="kitkat" />
+  <project path="frameworks/base"                                name="percy-g2/android_frameworks_base"                               remote="github"     revision="4.4.3_r1.1" />
+  <project path="frameworks/native"                              name="AndroidOpenSourceXperia/android_frameworks_native-1"                             remote="github"     revision="kitkat" />
+  <project path="frameworks/opt/telephony"                       name="percy-g2/android_frameworks_opt_telephony"                      remote="github"     revision="4.4.3_r1.1" />
   <project path="frameworks/rs"                                  name="AndroidOpenSourceXperia/android_frameworks_rs"                                 remote="github"     revision="kitkat" />
-  <project path="hardware/libhardware"                           name="AndroidOpenSourceXperia/android_hardware_libhardware"                          remote="github"     revision="kitkat" />
-  <project path="hardware/libhardware_legacy"                    name="AndroidOpenSourceXperia/android_hardware_libhardware_legacy"                   remote="github"     revision="kitkat" />
+  <project path="hardware/libhardware"                           name="percy-g2/android_hardware_libhardware"                          remote="github"     revision="4.4.3_r1.1" />
+  <project path="hardware/libhardware_legacy"                    name="percy-g2/android_hardware_libhardware_legacy"                   remote="github"     revision="4.4.3_r1.1" />
   <project path="packages/apps/Bluetooth"                        name="AndroidOpenSourceXperia/android_packages_apps_Bluetooth"                        remote="github"     revision="kitkat" />
   <project path="packages/apps/Dialer"                           name="AndroidOpenSourceXperia/android_packages_apps_Dialer"                          remote="github"     revision="kitkat" />
   <project path="packages/apps/Settings"                         name="AndroidOpenSourceXperia/android_packages_apps_Settings"                        remote="github"     revision="kitkat" />
@@ -80,7 +80,7 @@
   <project path="system/vold"                                    name="AndroidOpenSourceXperia/android_system_vold"                                   remote="github"     revision="kitkat" />
   <project path="system/netd"                                    name="AndroidOpenSourceXperia/android_system_netd"                                   remote="github"     revision="kitkat" />
   <project path="system/media"                                   name="AndroidOpenSourceXperia/android_system_media"                                  remote="github"     revision="kitkat" />
-  <project path="system/core"                                    name="AndroidOpenSourceXperia/android_system_core"                                   remote="github"     revision="kitkat" />
+  <project path="system/core"                                    name="percy-g2/android_system_core"                                   remote="github"     revision="4.4.3_r1.1" />
   <project path="system/extras"                                  name="AndroidOpenSourceXperia/android_system_extras"                                 remote="github"     revision="kitkat" />  
   <project path="art"                                            name="AndroidOpenSourceXperia/android_art"                                           remote="github"     revision="kitkat" />
   <project path="external/valgrind"                              name="AndroidOpenSourceXperia/android_external_valgrind"                             remote="github"     revision="kitkat" />   
