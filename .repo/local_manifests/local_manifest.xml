@@ -65,7 +65,7 @@
   <project path="external/openssl"                               name="AndroidOpenSourceXperia/android_external_openssl"                              remote="github"     revision="kitkat" />
   <project path="frameworks/av"                                  name="AndroidOpenSourceXperia/android_frameworks_av-1"                                 remote="github"     revision="4.4.3_r1.1" />
   <project path="frameworks/base"                                name="percy-g2/android_frameworks_base"                               remote="github"     revision="4.4.3_r1.1" />
-  <project path="frameworks/native"                              name="AndroidOpenSourceXperia/android_frameworks_native-1"                             remote="github"     revision="kitkat" />
+  <project path="frameworks/native"                              name="AndroidOpenSourceXperia/android_frameworks_native-1"                             remote="github"     revision="4.4.3_r1.1" />
   <project path="frameworks/opt/telephony"                       name="percy-g2/android_frameworks_opt_telephony-1"                      remote="github"     revision="4.4.3_r1.1" />
   <project path="frameworks/rs"                                  name="AndroidOpenSourceXperia/android_frameworks_rs"                                 remote="github"     revision="kitkat" />
   <project path="hardware/libhardware"                           name="percy-g2/android_hardware_libhardware-1"                          remote="github"     revision="4.4.3_r1.1" />
