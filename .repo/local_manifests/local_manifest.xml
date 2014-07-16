@@ -97,6 +97,8 @@
   <project path="vendor/google"                 name="AndroidOpenSourceXperia/android_vendor_google"                remote="github"     revision="master" />
   <project path="hardware/ste-sony"             name="AndroidOpenSourceXperia/android_hardware_ste-sony"            remote="github"     revision="master-dev" />
   
+  <project path="external/wpa_supplicant_8_ste"	name="AndroidOpenSourceXperia/android_external_wpa_supplicant_8_ste"             remote="github"     revision="cm-11.0" />
+  
   <project path="external/bluetooth/bluez"      name="AndroidOpenSourceXperia/android_external_bluetooth_bluez"     remote="github"     revision="5.20" />
   <project path="external/bluetooth/sbc"        name="bluetooth/sbc"                                                remote="kernel"     revision="master"         groups="pdk" />
   <project path="external/bluetooth/glib"       name="aosp-bluez.glib"                                              remote="googlecode" revision="master"         groups="pdk" />
@@ -112,7 +114,6 @@
   
   <project path="packages/apps/CMFileManager"   name="CyanogenMod/android_packages_apps_CMFileManager"              remote="github"     revision="cm-11.0" />  
 
-  <project path="external/wpa_supplicant_8_ti"	name="CyanogenMod/android_external_wpa_supplicant_8_ti"             remote="github"     revision="cm-11.0" />
   <project path="hardware/qcom/fm"              name="CyanogenMod/android_hardware_qcom_fm"                         remote="github"     revision="cm-11.0" />
   
   <project path="external/nano"                 name="CyanogenMod/android_external_nano"                            remote="github"     revision="cm-11.0" />
