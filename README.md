@@ -1,13 +1,13 @@
 android_scripts
 ===============
 
-Helpful scripts for build Android Open Source Project
+Helpful scripts for build OmniROM
 
 QuickStart:
 
-    git clone https://github.com/AndroidOpenSourceXperia/android_scripts.git -b kitkat aosx;
-    cd aosx;
-    ./repo init -u https://android.googlesource.com/platform/manifest -b android-4.4.4_r2;
+    git clone https://github.com/OmniXperia/android_scripts.git -b kitkat OmniXperia;
+    cd OmniXperia;
+    ./repo init -u https://github.com/omnirom/android -b android-4.4;
     ./Update.sh;
     ./CompileROM.sh -u; (Xperia U)
     ./CompileROM.sh -p; (Xperia P)   
