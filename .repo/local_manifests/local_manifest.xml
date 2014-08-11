@@ -30,7 +30,7 @@
   <remove-project name="platform/external/stlport" />
   
   
-  <project path="build"                                          name="AndroidOpenSourceXperia/android_build"                                         remote="github"     revision="kitkat" >
+  <project path="build"                                          name="OmniXperia/android_build"                                         remote="github"     revision="android-4.4" >
   <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
