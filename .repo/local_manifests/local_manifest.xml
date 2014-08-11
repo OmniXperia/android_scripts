@@ -35,7 +35,6 @@
   </project>
   
   <project path="bionic"                                         name="AndroidOpenSourceXperia/android_bionic"                                        remote="github"     revision="kitkat" />
-  <project path="external/crda"                                  name="AndroidOpenSourceXperia/android_external_crda"                                 remote="github"     revision="cm-11.0" />
   <project path="frameworks/av"                                  name="OmniXperia/android_frameworks_av"                                 remote="github"     revision="android-4.4" />
   <project path="frameworks/base"                                name="OmniXperia/android_frameworks_base"                               remote="github"     revision="android-4.4" />
   <project path="frameworks/native"                              name="OmniXperia/android_frameworks_native"                             remote="github"     revision="android-4.4" />
